@@ -54,4 +54,4 @@ To run the Library Management System locally, you need the following:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache 2](LICENSE).

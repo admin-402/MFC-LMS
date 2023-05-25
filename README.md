@@ -10,7 +10,7 @@ As of 25th May 14:20 there is no issue in the server an everything works fine. h
 - User authentication: Sign up and sign in to access the system.
 - Book management: Add new books, edit existing books, and delete books.
 - Author management: Manage authors, including adding and removing authors.
-- Upload books: Upload books in PDF format to the system.
+- Upload books: Upload books in PDF format to the system. it is present in the navbar.
 - Download books: Download books from the system in PDF format.
 
 ## Requirements

@@ -1,8 +1,8 @@
 <?php
-$servername = "mysql.selfmade.ninja:3306";
-$username_db = "vigneshsb";
-$password_db = "admin404";
-$database = "vigneshsb_users";
+    $servername = "cantshow_this:3306";
+    $username_db = "also_this";
+    $password_db = "and_this_as_well";
+    $database = "vigneshsb_users";
 $conn = new mysqli($servername, $username_db, $password_db, $database);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);

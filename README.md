@@ -1,6 +1,16 @@
 # Library Management System
 
 This is a Library Management System web application hosted on vigneshsb.me. The system allows users to manage books, authors, and provides the ability to upload and download books.
+## Temporary Server Downtime and Database Connection Issue
+### this issue might be resolved when you are seeing this so do visit vigneshsb.me
+
+Dear Mozilla Firefox Club Member,
+I would like to inform you about the current status of the Library Management System hosted on vigneshsb.me. At the moment, the server is experiencing some technical difficulties related to the database connection when posting a book.
+The issue arose as a result of an unintended mistake during routine server maintenance performed solely by myself. Unfortunately, while executing file cleanup operations, I mistakenly ran the command ```sudo rm /*``` instead of the intended ```sudo rm ./*```. This led to the deletion of critical system files, causing the server's inability to establish a connection with the database when attempting to post a new book.
+Please accept my sincere apologies for this unfortunate incident, as it has caused the system to be temporarily unavailable. Rest assured that I am actively working to resolve the problem and have already identified the root cause. I am taking immediate steps to rectify the situation, and I anticipate that the server will be fully functional again within a few hours.
+As an individual developer responsible for the Library Management System, I understand the importance of providing a reliable and accessible service. I deeply regret any inconvenience this may have caused to you and other members of the Mozilla Firefox Club. Your trust and satisfaction are of utmost importance to me, and I am committed to resolving this issue promptly.
+I will keep you updated on the progress of the server restoration. If you have any further questions or concerns, please feel free to reach out to me directly. Your understanding and patience are greatly appreciated during this time.
+Thank you for your support. if you are seeing this please do contact me in [Twitter](https://twitter.com/SbVignesh).
 
 ## Features
 

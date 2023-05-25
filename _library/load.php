@@ -3,9 +3,9 @@ function loadTemplate($name) {
     include __DIR__."/../_templates/$name.php";
 }
 function insertUser($username, $password, $email, $phone) {
-    $servername = "mysql.selfmade.ninja:3306";
-    $username_db = "vigneshsb";
-    $password_db = "admin404";
+    $servername = "cantshow_this:3306";
+    $username_db = "also_this";
+    $password_db = "and_this_as_well";
     $database = "vigneshsb_users";
 
     // Create connection
@@ -40,9 +40,9 @@ function insertUser($username, $password, $email, $phone) {
     }
 }
 function validate($email, $password) {
-    $servername = "mysql.selfmade.ninja:3306";
-    $username_db = "vigneshsb";
-    $password_db = "admin404";
+    $servername = "cantshow_this:3306";
+    $username_db = "also_this";
+    $password_db = "and_this_as_well";
     $database = "vigneshsb_users";
 
     // Create connection
@@ -87,9 +87,9 @@ function validate($email, $password) {
     }
 }
 /*function uploadBook($bookName, $authorName, $noOfPages, $noOfCopies, $thumbnailImage, $bookPdf) {
-    $servername = "mysql.selfmade.ninja:3306";
-    $username_db = "vigneshsb";
-    $password_db = "admin404";
+    $servername = "cantshow_this:3306";
+    $username_db = "also_this";
+    $password_db = "and_this_as_well";
     $database = "vigneshsb_users";
 
     // Create connection
@@ -125,9 +125,9 @@ function validate($email, $password) {
 }
 */
 function uploadBook($bookName, $authorName, $noOfPages, $noOfCopies, $thumbnailImage, $bookPdf) {
-    $servername = "mysql.selfmade.ninja:3306";
-    $username_db = "vigneshsb";
-    $password_db = "admin404";
+    $servername = "cantshow_this:3306";
+    $username_db = "also_this";
+    $password_db = "and_this_as_well";
     $database = "vigneshsb_users";
 
     // Create connection
